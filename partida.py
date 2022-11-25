@@ -126,7 +126,7 @@ st.markdown('---')
 st.markdown("## 🌍 Probabilidades dos Jogos da Copa") 
 
 jogoscopa = pd.read_excel('dados/outputEstimativasJogosCopa.xlsx', index_col = 0)
-st.table(jogoscopa[['data','grupo', 'seleção1', 'seleção2', 'Vitória', 'Empate', 'Derrota']])
+st.table(jogoscopa[['grupo', 'seleção1', 'seleção2', 'Vitória', 'Empate', 'Derrota']])
 
 
 st.markdown('---')
