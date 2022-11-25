@@ -133,6 +133,8 @@ st.markdown('---')
 st.markdown('Trabalho desenvolvido no Minicurso FLAI Data Science na Copa do Mundo!')
 st.markdown('Felipe Martins Machado Mendes')
 
+st.sidebar.markdown("[![Title]('https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg')]('https://www.linkedin.com/in/felipe-martins-dev/')")
+
 
 #bandeira1, nome1, prob, empate, prob, nome2, bandeira2
 #matriz de probabilidades do jogo
