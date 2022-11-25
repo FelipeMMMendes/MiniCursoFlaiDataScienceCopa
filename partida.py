@@ -133,6 +133,7 @@ st.markdown('---')
 st.markdown('Trabalho desenvolvido no Minicurso FLAI Data Science na Copa do Mundo!')
 st.markdown('Felipe Martins Machado Mendes')
 
+column1, column2 = st.columns(2)
 st.sidebar.markdown("[![Title]('https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg')]('https://www.linkedin.com/in/felipe-martins-dev/')")
 
 
